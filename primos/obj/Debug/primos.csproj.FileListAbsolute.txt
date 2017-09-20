@@ -1,0 +1,8 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\primos\bin\Debug\primos.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\primos\bin\Debug\primos.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\primos\bin\Debug\primos.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\primos\obj\Debug\primos.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\primos\obj\Debug\primos.pdb
+D:\ayudantia\proyectos-visualstudio\primos\primos\bin\Debug\primos.exe.config
+D:\ayudantia\proyectos-visualstudio\primos\primos\obj\Debug\primos.exe
+D:\ayudantia\proyectos-visualstudio\primos\primos\obj\Debug\primos.pdb
